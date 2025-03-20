@@ -8,7 +8,7 @@
 
 ### Meus stats:
 
-![Calliel GitHub stats](https://github-readme-stats.vercel.app/api?username=calfreitas&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calfreitas&layout=donut)](https://github.com/calfreitas/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia:
 
